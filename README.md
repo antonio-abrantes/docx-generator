@@ -1,8 +1,8 @@
-## 📄 Projeto: CursoDoc - Gerador de Documentos Didáticos
+## 📄 Projeto: DocxGenerator - Gerador de Documentos Didáticos
 
 ### 📚 Descrição
 
-**CursoDoc** é um projeto simples e didático desenvolvido para explorar e aplicar os conceitos da biblioteca **`python-docx`**. Este projeto foi criado com o objetivo de facilitar a geração de documentos no formato Word, simulando um sistema de criação de ementas e calendários de cursos. Ele não possui fins comerciais e foi elaborado para fins de aprendizado e prática.
+**DocxGenerator** é um projeto simples e didático desenvolvido para explorar e aplicar os conceitos da biblioteca **`python-docx`**. Este projeto foi criado com o objetivo de facilitar a geração de documentos no formato Word, simulando um sistema de criação de ementas e calendários de cursos. Ele não possui fins comerciais e foi elaborado para fins de aprendizado e prática.
 
 O principal objetivo deste projeto é demonstrar como trabalhar com elementos básicos de um documento Word, como títulos, parágrafos, listas, tabelas e espaçamentos personalizados.
 
@@ -38,7 +38,7 @@ O principal objetivo deste projeto é demonstrar como trabalhar com elementos b�
    ```
 3. Execute o script diretamente:
    ```bash
-   python curso_doc.py
+   python main.py
    ```
 4. Um arquivo chamado `document_{timestamp}.docx` será gerado no diretório do projeto contendo o documento do curso.
 
