@@ -40,7 +40,7 @@ O principal objetivo deste projeto é demonstrar como trabalhar com elementos b�
    ```bash
    python curso_doc.py
    ```
-4. Um arquivo chamado `curso.docx` será gerado no diretório do projeto contendo o documento do curso.
+4. Um arquivo chamado `document_{timestamp}.docx` será gerado no diretório do projeto contendo o documento do curso.
 
 ---
 
