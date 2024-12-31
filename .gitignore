@@ -1,0 +1,42 @@
+# Ambientes virtuais
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Arquivos de configuração locais
+*.env
+*.local
+
+# Logs
+*.log
+logs/
+
+# Cache e arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos gerados por pytest
+htmlcov/
+*.coverage
+.cache/
+
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de wheel
+dist/
+build/
+*.egg-info/
+
+# Outras configurações específicas
+*.sqlite3
+*.db
